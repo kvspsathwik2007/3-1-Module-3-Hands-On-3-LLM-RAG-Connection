@@ -1,0 +1,18 @@
+
+[
+  {
+    "id": "doc_001",
+    "title": "Introduction to RAG",
+    "content": "Retrieval-Augmented Generation (RAG) combines document retrieval with a Large Language Model. First, the system searches a document collection for relevant text. It then provides the retrieved text as context to the language model, which generates an answer grounded in that context."
+  },
+  {
+    "id": "doc_002",
+    "title": "Direct LLM versus RAG",
+    "content": "A direct LLM answers a question using its learned knowledge and the prompt supplied by the user. A RAG system retrieves relevant information from an external document collection before generating its answer. RAG can improve grounding in the supplied documents, but retrieval errors or missing information can still lead to weak answers."
+  },
+  {
+    "id": "doc_003",
+    "title": "Embeddings and Cosine Similarity",
+    "content": "An embedding represents text as a numerical vector. Semantic retrieval compares the embedding of a question with embeddings of document chunks. Cosine similarity measures the angle-based similarity between two non-zero vectors. Higher similarity scores can help rank relevant chunks, but they do not guarantee factual correctness."
+  }
+]

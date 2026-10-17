@@ -1,0 +1,33 @@
+
+<resources>
+    <string name="app_name">RAG Assistant</string>
+
+    <!-- Header -->
+    <string name="subtitle">LLM + Retrieval Augmented Generation</string>
+    <string name="hero_title">Ask. Compare. Understand.</string>
+    <string name="hero_description">Compare a direct AI answer with a RAG-powered answer grounded in retrieved documents.</string>
+
+    <!-- Status -->
+    <string name="status_ready">Ready to compare answers</string>
+
+    <!-- Question input -->
+    <string name="question_label">Enter your question</string>
+    <string name="question_hint">Ask something about your documents...</string>
+    <string name="compare_button">Compare Answers</string>
+
+    <!-- Comparison -->
+    <string name="comparison_heading">Answer Comparison</string>
+
+    <!-- Direct LLM -->
+    <string name="direct_heading">Direct LLM Answer</string>
+    <string name="direct_placeholder">Your direct LLM answer will appear here.</string>
+    <string name="timing_placeholder">Response time: --</string>
+
+    <!-- RAG -->
+    <string name="rag_heading">RAG Answer</string>
+    <string name="rag_placeholder">Your RAG-powered answer will appear here.</string>
+
+    <!-- Sources -->
+    <string name="sources_heading">Retrieved Sources</string>
+    <string name="sources_placeholder">Relevant document sources will appear here.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navy_bg">#071426</color>
+    <color name="navy_card">#10233C</color>
+    <color name="blue_primary">#2563EB</color>
+    <color name="blue_light">#60A5FA</color>
+    <color name="red_dark">#351923</color>
+    <color name="red_accent">#F87171</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#CBD5E1</color>
+    <color name="border_blue">#31547A</color>
+    <color name="success_green">#22C55E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
